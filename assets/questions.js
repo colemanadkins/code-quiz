@@ -10,4 +10,6 @@ var questions = [
         choice: ["Korben Dallas", "Michael Corben", "Ruby Rhod", "Zorg"],
         answer: "Korben Dallas"
     },
-]
+];
+// Testing input in console log
+console.log(questions[1].choice[0]);
