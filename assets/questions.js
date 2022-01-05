@@ -30,6 +30,16 @@ var questions = [
         choice: ["Silent Hill", "World War Z", "Resident Evil", "PaRappa the Rapper"],
         answer: "Resident Evil"
     },
+    {
+        title: "What actor voiced the character Ultron in 'Avengers: Age of Ultron'?",
+        choice: ["James Spader", "Willem Dafoe", "Josh Brolin", "Sean Astin"],
+        answer: "James Spader"
+    },
+    {
+        title: "In what movie do aliens from space, appearing as clowns, invade a town to harvest people for food using weaponized popcorn and cotton candy?",
+        choice: ["It", "Creepshow", "Aliens", "Killer Klowns from Outer Space"],
+        answer: "Killer Klowns from Outer Space"
+    },
 ];
 // Testing input in console log
 console.log(questions[5].choice[2]);
