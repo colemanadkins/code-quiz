@@ -21,4 +21,4 @@ You will see the website meets the following acceptance criteria:
 
 ![alt text]()
 
-Click [here]() to take the Code Quiz!
+Click [here](https://colemanadkins.github.io/code-quiz/) to take the Code Quiz!
