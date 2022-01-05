@@ -1,0 +1,13 @@
+* {
+  color: darkblue;
+  background-color: lightgray;
+  text-align: center;
+}
+
+.scores {
+    text-align: left;
+}
+
+.timer {
+    text-align: right;
+}
