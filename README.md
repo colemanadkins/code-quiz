@@ -19,6 +19,6 @@ You will see the website meets the following acceptance criteria:
 * WHEN the game is over
 * THEN I can save my initials and my score
 
-![alt text]()
+![alt text](https://github.com/colemanadkins/code-quiz/blob/main/assets/movie%20quiz%20screenshot.PNG)
 
 Click [here](https://colemanadkins.github.io/code-quiz/) to take the Code Quiz!
