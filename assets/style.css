@@ -3,6 +3,7 @@
   background-color: lightgray;
   text-align: center;
   font-size: 24px;
+  box-sizing: border-box;
 }
 
 h1 {

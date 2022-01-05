@@ -15,6 +15,7 @@ function startQuiz() {
     startScreen.setAttribute("class", "hide");
     // Unhide the questions
     questionsElement.removeAttribute("class");
+    
 
     getCurrentQuestion();
 }
