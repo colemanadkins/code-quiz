@@ -25,7 +25,11 @@ var questions = [
         choice: ["Taxi Driver", "Raging Bull", "Meet The Parents", "Space Jam"],
         answer: "Taxi Driver"
     },
-    
+    {
+        title: "What popular video game inspired a series of zombie movies of the same name starring Milla Jovovich as the character Alice?",
+        choice: ["Silent Hill", "World War Z", "Resident Evil", "PaRappa the Rapper"],
+        answer: "Resident Evil"
+    },
 ];
 // Testing input in console log
-console.log(questions[1].choice[0]);
+console.log(questions[5].choice[2]);
